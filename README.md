@@ -15,13 +15,19 @@ Welcome to the **VideoGame-Map-Pathfinding-System** repository, a Python-based p
 
 The repository is organized as follows:
 
-- **src/**: Contains all Python source files that handle the algorithms and the map processing.
+- **/src/**: Contains all Python source files that handle the algorithms and the map processing.
   - `main.py`: Runs the search algorithms and handles the experiments.
   - `algorithms.py`: Contains the implementations of Dijkstra's and A* algorithms.
   - `map.py`: Defines the map structure and utility functions for pathfinding.
   - `plot_results.py`: Provides functionality to generate visual performance plots comparing the algorithms.
   
-- **plots/**: Stores the visual output comparing the performance of Dijkstra's and A* in terms of nodes expanded and runtime.
+- **/plots/**: Stores the visual output comparing the performance of Dijkstra's and A* in terms of nodes expanded and runtime.
+
+- **/maps/**: Directory containing map instances for testing
+
+- `README.md`: Project documentation
+
+- `requirements.txt`: Lists dependencies required to run the project
 
 ## Map and Problem Files
 
