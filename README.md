@@ -1,7 +1,7 @@
 
 # VideoGame Map Pathfinding System
 
-Welcome to the **VideoGame-Map-Pathfinding-System** repository, a Python-based project that implements two classic pathfinding algorithms: **Dijkstra's Algorithm** and **A***, applied to grid-based video game maps. This project is ideal for those studying artificial intelligence, game development, or algorithmic problem-solving. It offers visual representations and performance analysis, making it a great tool for educational purposes and practical use in game AI.
+Welcome to the **VideoGame-Map-Pathfinding-System** repository, a Python-based project that implements two classic pathfinding algorithms: **Dijkstra's Algorithm** and **A***, applied to grid-based video game maps. This project is ideal for those studying artificial intelligence, game development, or algorithmic problem-solving. It offers visual representations and performance analysis, making it a great tool for practical use in game AI.
 
 ## Features
 
