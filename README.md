@@ -1,5 +1,5 @@
 
-# VideoGame-Map-Pathfinding-System
+# VideoGame Map Pathfinding System
 
 Welcome to the **VideoGame-Map-Pathfinding-System** repository, a Python-based project that implements two classic pathfinding algorithms: **Dijkstra's Algorithm** and **A***, applied to grid-based video game maps. This project is ideal for those studying artificial intelligence, game development, or algorithmic problem-solving. It offers visual representations and performance analysis, making it a great tool for educational purposes and practical use in game AI.
 
@@ -63,7 +63,3 @@ Scatter plots are generated that compare the two algorithms:
 - **running_time.png**: Compares the runtime of each algorithm.
 
 These plots can be found in the `plots/` directory. The file `plot_results.py` is responsible for creating these visual comparisons.
-
-## License
-
-This project is for educational and non-commercial purposes.
